@@ -1,0 +1,24 @@
+h1{
+    color:rgb(0, 0, 0)
+}
+.header{
+    background-color: rgb(255, 245, 107);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    background: #6decc6;
+}
+body{
+    font-size: 15px;
+}
